@@ -10,7 +10,7 @@ Before starting work on something major, please reach out to us via GitHub, emai
 ## Ways to Contribute
 
 1.  **Replying and handling open issues.**  You can help out by guiding people through the process of filling out the issue template, help them in clarifying information related to code, features or bugs.
-2.  **Find bugs and raise issues**  The app is in its early stage and we appreciate if you can test and find out bugs that can help us improve user experience by a manifold. Help us by creating issues for bugs you find
+2.  **Find bugs and raise issues**  The project is in its early stage and we appreciate if you can test and find out bugs that can help us improve user experience by a manifold. Help us by creating issues for bugs you find
 3.  **Suggest features**  Want something more from the app? Go ahead and create an issue suggesting us your awesome feature!
 4. **Get down to coding!** We have some open issues, ranging from bugs to enhancements that we would appreciate if you could help us with.
 
@@ -27,7 +27,7 @@ If you have a specific idea of a fix or update, follow these steps below to subm
 
 ### Step 1: Make the change
 
-1. Fork the Chaos Mesh repo, and then clone it:
+1. Fork the project repo, and then clone it:
 
    ```bash
    $ export user={your github. profile name}
