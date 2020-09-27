@@ -4,7 +4,7 @@ Contain details of all projects under Source-AASF.
 
 
 **Repositories under source-aasf**
-  - [Source-AASF](https://github.com/source-aasf/Source-AASF)
+  - [AASF-IIITM](https://github.com/source-aasf/Source-AASF)
     This repository contains details of all projects and general contributing guideline to any project under Source-AASF.
 
   - [gladiator](https://github.com/source-aasf/gladiator)
