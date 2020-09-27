@@ -1,6 +1,6 @@
-# Contributing to Source AASF Projects
+# Contributing to AASF IIITM Projects
 
-Thanks for your interest in improving the projects! This document provides a step-by-step guide for general contributions to Source AASF porjcets.
+Thanks for your interest in improving the projects! This document provides a step-by-step guide for general contributions to AASF IIITM porjcets.
 
 ## Communications
 
@@ -25,7 +25,7 @@ If you have a specific idea of a fix or update, follow these steps below to subm
 - [Step 4: Create a pull request](#step-4-create-a-pull-request)
 - [Step 5: Get a code review](#step-5-get-a-code-review)
 
-### Step 1: Make the change
+### Step 1: Setup the Repo
 
 1. Fork the project repo, and then clone it:
 
@@ -43,7 +43,7 @@ If you have a specific idea of a fix or update, follow these steps below to subm
 
    ```bash
    $ cd <repo-name>
-   $ git remote add upstream https://github.com/source-aasf/<repo-name>.git
+   $ git remote add upstream https://github.com/AASF-IIITM/<repo-name>.git
    ```
 
 3. Disable pushing to upstream master:
@@ -58,7 +58,15 @@ If you have a specific idea of a fix or update, follow these steps below to subm
    ```bash
    origin    git@github.com:$(user)/<repo-name>.git (fetch)
    origin    git@github.com:$(user)/<repo-name>.git (push)
-   upstream  https://github.com/source-aasf/<repo-name> (fetch)
+   upstream  https://github.com/AASF-IIITM/<repo-name> (fetch)
+   upstream  no_push (push)
+   ```
+   or 
+   
+   ```bash
+   origin https://github.com/$(user)/<repo-name>.git (fetch)
+   origin https://github.com/$(user)/<repo-name>.git (push)
+   upstream  https://github.com/AASF-IIITM/<repo-name> (fetch)
    upstream  no_push (push)
    ```
 
@@ -71,14 +79,14 @@ If you have a specific idea of a fix or update, follow these steps below to subm
    $ git checkout -b myfeature
    ```
    
-    ### Step 2: Make the change
+### Step 2: Make the change
   
-  1. Make changes which you want 
-  2. Follow  specific contributing guideline related to particular project
+1. Make changes which you want 
+2. Follow  specific contributing guideline related to particular project
    
    
    
-   ### Step 3: Commit and push your changes
+### Step 3: Commit and push your changes
 
 If your project contain some test cases, please run before commiting.
 
