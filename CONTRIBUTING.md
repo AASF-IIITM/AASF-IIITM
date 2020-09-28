@@ -109,6 +109,12 @@ If your project contain some test cases, please run before commiting.
    ```bash
    $ git push -f origin myfeature
    ```
+   
+   #### Points to be noted:
+
+      - Please have meaningful commit and PR messages.
+      - Commit messages have to be in imperative tense. An example is "fix segmentation error" or "implement binary search in c++". All commit messages have to be in lower case.
+      - Same is the case with Pull Requests. Pull requests have a title and a description. Title has to be short and informative.
 
 ### Step 4: Create a pull request
 
