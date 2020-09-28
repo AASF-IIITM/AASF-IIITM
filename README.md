@@ -3,7 +3,7 @@
 Contain details of all projects under AASF-IIITM.
 
 
-**Repositories under source-aasf**
+**Repositories under AASF-IIITM**
   - [AASF-IIITM](https://github.com/AASF-IIITM/Source-AASF)
     This repository contains details of all projects and general contributing guideline to any project under AASF-IIITM.
 
