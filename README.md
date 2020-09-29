@@ -1,6 +1,6 @@
 # AASF-IIITM
 
-Contain details of all projects under AASF-IIITM.
+Contains details of all projects under AASF-IIITM, maintained by the vibrant developers from IIITM Gwalior.
 
 
 **Repositories under AASF-IIITM**
