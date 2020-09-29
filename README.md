@@ -11,7 +11,7 @@ Contains details of all projects under AASF-IIITM, maintained by the vibrant dev
     A React Native app used to calculate calculate all your mutual fund financial targets.
     
   - [aasf-website-backend](https://github.com/AASF-IIITM/aasf-website-backend)
-    
+    Newly built backend for AASF Website(revamped). Yet to be released.
 
   - [FakeBook](https://github.com/AASF-IIITM/FakeBook)
     A new generation app for social networking based on the MERN stack.
