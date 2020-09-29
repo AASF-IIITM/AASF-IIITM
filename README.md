@@ -8,7 +8,7 @@ Contains details of all projects under AASF-IIITM, maintained by the vibrant dev
     This repository contains details of all projects and general contributing guideline to any project under AASF-IIITM.
 
   - [gladiator](https://github.com/AASF-IIITM/gladiator)
-    A React Native app used to calculate calculate all your mutual fund financial targets.
+    A React Native app used to calculate all your mutual fund financial targets.
     
   - [aasf-website-backend](https://github.com/AASF-IIITM/aasf-website-backend)
     Newly built backend for AASF Website(revamped). Yet to be released.
