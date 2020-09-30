@@ -5,7 +5,7 @@ Contains details of all projects under AASF-IIITM, maintained by the vibrant dev
 
 **Repositories under AASF-IIITM**
   1. [AASF-IIITM](https://github.com/AASF-IIITM/Source-AASF)
-    This repository contains details of all projects and general contributing guideline to any project under AASF-IIITM.
+    This repository contains details of all projects and general contributing guidelines to any project under AASF-IIITM.
     
 
   2. [gladiator](https://github.com/AASF-IIITM/gladiator)
@@ -18,7 +18,7 @@ Contains details of all projects under AASF-IIITM, maintained by the vibrant dev
   3. [aasf-website-backend](https://github.com/AASF-IIITM/aasf-website-backend)
     Newly built backend for AASF Website(revamped). Yet to be released.<br/>
       ***TechStack:*** Nodejs, Express, MongoDB<br/>
-      ***Manintainers:*** <br/>[Guna Shekar Proddaturi](https://github.com/GunaShekar02)
+      ***Maintainers:*** <br/>[Guna Shekar Proddaturi](https://github.com/GunaShekar02)
                              Email: gunashekherproddatoori@gmail.com<br/>
                           [Saniya Arora](https://github.com/sar99)
                               Email: saniya.rishi@gmail.com
@@ -31,7 +31,7 @@ Contains details of all projects under AASF-IIITM, maintained by the vibrant dev
   5. [BlogApp](https://github.com/AASF-IIITM/BlogApp)
       Android app for social networking and blog sharing.<br/>
       ***TechStack:*** Android Studio(Java)<br/>
-      ***Manintainers:*** <br/>[Ankit Kumar](https://github.com/theanandankit)
+      ***Maintainers:*** <br/>[Ankit Kumar](https://github.com/theanandankit)
                              Email: ankitanand2909@gmail.com<br/>
                           [Medhavi Srivastava](https://github.com/Medhavi-16)
                               Email: medhavi.srivastava16@gmail.com
