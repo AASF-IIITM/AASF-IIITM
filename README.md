@@ -54,6 +54,12 @@ Contains details of all projects under AASF-IIITM, maintained by the vibrant dev
             Email: abhi211199@gmail.com
   9. [NSFW-image-detector](https://github.com/AASF-IIITM/NSFW-image-detector)
   10. [Intrusion-Detection-using-machine-learning-techniques](https://github.com/AASF-IIITM/Intrusion-Detection-using-machine-learning-techniques)
+   A desktop application that captures real time network traffic, generates flows and uses these flows to detect malicious network traffic.<br/>
+  ***TechStack:*** C++, Python, Qt, MongoDB, ML Libraries<br/>
+  ***Maintainer:*** <br/>
+                [Hitanshu Mehta](https://github.com/hitanshu-mehta)
+                   Email : hitanshu99amehta@gmail.com
+  
   13. [FakeBook](https://github.com/AASF-IIITM/FakeBook)
     A new generation app for social networking based on the MERN stack.
 
