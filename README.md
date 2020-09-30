@@ -59,6 +59,16 @@ Contains details of all projects under AASF-IIITM, maintained by the vibrant dev
   ***Maintainer:*** <br/>
                 [Hitanshu Mehta](https://github.com/hitanshu-mehta)
                    Email : hitanshu99amehta@gmail.com
+  11. [Emergency-Signal-Recognition-for-the-Hearing-Impaired-using-Multichannel-CNN](https://github.com/AASF-IIITM/Emergency-Signal-Recognition-for-the-Hearing-Impaired-using-Multichannel-CNN)
+  An android app to help assist deaf people be aware of their surroundings by sensing emergency signals such as burglar alarms, sirens and fire alarms and  communicating it with them accordingly.</br>
+  ***TechStack*** Python, Deep learning </br>
+  ***Maintainer:*** </br>
+  [Swarup Padhy](https://github.com/paddy-03)
+  Email: swarupdel2008@gmail.com </br>
+  [Shivam Rathore](https://github.com/rshivam08)
+  Email: shivamrathore307@gmail.com </br>
+  [Juhi Tiwari](https://github.com/juhitiwari)
+  Email: tjuhi.321@gmail.com
   
   13. [FakeBook](https://github.com/AASF-IIITM/FakeBook)
     A new generation app for social networking based on the MERN stack.
