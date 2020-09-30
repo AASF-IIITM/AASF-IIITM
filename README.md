@@ -29,6 +29,12 @@ Contains details of all projects under AASF-IIITM, maintained by the vibrant dev
             [Abhishek Garain](https://github.com/abhi211199)
             Email: abhi211199@gmail.com
   5. [BlogApp](https://github.com/AASF-IIITM/BlogApp)
+      Android app for social networking and blog sharing.
+      ***TechStack:*** Android Studio(Java)<br/>
+      ***Manintainers:*** <br/>[Ankit Kumar](https://github.com/theanandankit)
+                             Email: ankitanand2909@gmail.com<br/>
+                          [Medhavi Srivastava](https://github.com/Medhavi-16)
+                              Email: medhavi.srivastava16@gmail.com
   6. [EMOPlayer](https://github.com/AASF-IIITM/EMOPlayer)
   Android App for Emotion based Music Player. Classify Human Emotions by face recognition and recommend Songs based on human emotion.<br/>
       ***TechStack:*** Java, Firebase, ML, Android<br/>
@@ -40,29 +46,25 @@ Contains details of all projects under AASF-IIITM, maintained by the vibrant dev
      ***TechStack:*** Nodejs, Reactjs, Express, MongoDB, Microsoft Cognitive Services <br/>
      ***Maintainer:*** <br/>[Ruturaj Kanake](https://github.com/ruturajkanake) 
                       Email : ruturajkanake@gmail.com
-
-      
-  8. [predicting-students-attentiveness](https://github.com/AASF-IIITM/predicting-students-attentiveness)
-
-  9. [AndroidDB](https://github.com/AASF-IIITM/AndroidDB)
+  8. [AndroidDB](https://github.com/AASF-IIITM/AndroidDB)
   AndroidDB is an android app which stores ten latest entries of data. Data is stored in Firebase Database and old data is deleted using Firebase Functions.<br/>
      ***TechStack:*** Android Studio(Java)
-      ***Maintainer:***<br/>
+     ***Maintainer:***<br/>
             [Abhishek Garain](https://github.com/abhi211199)
             Email: abhi211199@gmail.com
-  10. [NSFW-image-detector](https://github.com/AASF-IIITM/NSFW-image-detector)
-  11. [Intrusion-Detection-using-machine-learning-techniques](https://github.com/AASF-IIITM/Intrusion-Detection-using-machine-learning-techniques)
-  12. [FakeBook](https://github.com/AASF-IIITM/FakeBook)
+  9. [NSFW-image-detector](https://github.com/AASF-IIITM/NSFW-image-detector)
+  10. [Intrusion-Detection-using-machine-learning-techniques](https://github.com/AASF-IIITM/Intrusion-Detection-using-machine-learning-techniques)
+  13. [FakeBook](https://github.com/AASF-IIITM/FakeBook)
     A new generation app for social networking based on the MERN stack.
 
-  13. [eduspark_ritviz](https://github.com/AASF-IIITM/eduspark_ritviz)
+  14. [eduspark_ritviz](https://github.com/AASF-IIITM/eduspark_ritviz)
     An MERN stack based online learning platform where students can login and access course material provided by instructors.
 
-  14. [Food-order-USA](https://github.com/AASF-IIITM/Food-order-USA)
+  15. [Food-order-USA](https://github.com/AASF-IIITM/Food-order-USA)
     A food ordering application developed on the MERN stack
 
-  15. [AASF-Hackathon-19](https://github.com/AASF-IIITM/AASF-Hackathon-19)
+  16. [AASF-Hackathon-19](https://github.com/AASF-IIITM/AASF-Hackathon-19)
     This repository contains the projects of all the teams which participated in AASF-Hackathon'19.
 
-  16. [algorithms](https://github.com/AASF-IIITM/algorithms)
+  17. [algorithms](https://github.com/AASF-IIITM/algorithms)
     This repository contains implementations of popular algorithms in different languages.
