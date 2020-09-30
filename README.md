@@ -58,7 +58,7 @@ Contains details of all projects under AASF-IIITM, maintained by the vibrant dev
   13. [eduspark_ritviz](https://github.com/AASF-IIITM/eduspark_ritviz)
     An MERN stack based online learning platform where students can login and access course material provided by instructors.
 
-  14. Food-order-USA](https://github.com/AASF-IIITM/Food-order-USA)
+  14. [Food-order-USA](https://github.com/AASF-IIITM/Food-order-USA)
     A food ordering application developed on the MERN stack
 
   15. [AASF-Hackathon-19](https://github.com/AASF-IIITM/AASF-Hackathon-19)
