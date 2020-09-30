@@ -25,26 +25,35 @@ Contains details of all projects under AASF-IIITM, maintained by the vibrant dev
   4. [ExpenseCalc_React](https://github.com/AASF-IIITM/ExpenseCalc_React)
   5. [BlogApp](https://github.com/AASF-IIITM/BlogApp)
   6. [EMOPlayer](https://github.com/AASF-IIITM/EMOPlayer)
-      Android App for Emotion based Music Player. Classify Human Emotions by face recognition and recommend Songs based on human emotion.<br/>
+  Android App for Emotion based Music Player. Classify Human Emotions by face recognition and recommend Songs based on human emotion.<br/>
       ***TechStack:*** Java, Firebase, ML, Android<br/>
       ***Maintainer:*** <br/>
             [Rahul Dev](https://github.com/devr22)
             Email: devrahul2215@gmail.com
-  7. [predicting-students-attentiveness](https://github.com/AASF-IIITM/predicting-students-attentiveness)
-  8. [AndroidDB](https://github.com/AASF-IIITM/AndroidDB)
-  9. [NSFW-image-detector](https://github.com/AASF-IIITM/NSFW-image-detector)
-  10. [Intrusion-Detection-using-machine-learning-techniques](https://github.com/AASF-IIITM/Intrusion-Detection-using-machine-learning-techniques)
-  11. [FakeBook](https://github.com/AASF-IIITM/FakeBook)
+  7. [predicting-students-attentiveness](https://github.com/AASF-IIITM/predicting-students-attentiveness) 
+    An app that predicts the student's attention levels in a live online classroom. It finds the gaze of students from Microsoft Face API and then calculates the overall variation. <br/>
+     ***TechStack:*** Nodejs, Reactjs, Express, MongoDB, Microsoft Cognitive Services <br/>
+     ***Maintainer:*** <br/>
+                      - [Ruturaj Kanake](https://github.com/ruturajkanake) 
+                      Email : ruturajkanake@gmail.com
+
+      
+  8. [predicting-students-attentiveness](https://github.com/AASF-IIITM/predicting-students-attentiveness)
+
+  9. [AndroidDB](https://github.com/AASF-IIITM/AndroidDB)
+  10. [NSFW-image-detector](https://github.com/AASF-IIITM/NSFW-image-detector)
+  11. [Intrusion-Detection-using-machine-learning-techniques](https://github.com/AASF-IIITM/Intrusion-Detection-using-machine-learning-techniques)
+  12. [FakeBook](https://github.com/AASF-IIITM/FakeBook)
     A new generation app for social networking based on the MERN stack.
 
-  12. [eduspark_ritviz](https://github.com/AASF-IIITM/eduspark_ritviz)
+  13. [eduspark_ritviz](https://github.com/AASF-IIITM/eduspark_ritviz)
     An MERN stack based online learning platform where students can login and access course material provided by instructors.
 
-  13. Food-order-USA](https://github.com/AASF-IIITM/Food-order-USA)
+  14. Food-order-USA](https://github.com/AASF-IIITM/Food-order-USA)
     A food ordering application developed on the MERN stack
 
-  14. [AASF-Hackathon-19](https://github.com/AASF-IIITM/AASF-Hackathon-19)
+  15. [AASF-Hackathon-19](https://github.com/AASF-IIITM/AASF-Hackathon-19)
     This repository contains the projects of all the teams which participated in AASF-Hackathon'19.
 
-  15. [algorithms](https://github.com/AASF-IIITM/algorithms)
+  16. [algorithms](https://github.com/AASF-IIITM/algorithms)
     This repository contains implementations of popular algorithms in different languages.
