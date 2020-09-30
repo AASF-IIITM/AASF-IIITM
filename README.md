@@ -22,7 +22,12 @@ Contains details of all projects under AASF-IIITM, maintained by the vibrant dev
                              Email: gunashekherproddatoori@gmail.com<br/>
                           [Saniya Arora](https://github.com/sar99)
                               Email: saniya.rishi@gmail.com
-  4. [ExpenseCalc_React](https://github.com/AASF-IIITM/ExpenseCalc_React)
+  4. [ExpenseCalculator](https://github.com/AASF-IIITM/ExpenseCalculator)
+  Expense Calculator is a web-app, which stores expenses added by user.<br/>
+     ***TechStack:*** ReactJS<br/>
+      ***Maintainer:*** <br/>
+            [Abhishek Garain](https://github.com/abhi211199)
+            Email: abhi211199@gmail.com
   5. [BlogApp](https://github.com/AASF-IIITM/BlogApp)
   6. [EMOPlayer](https://github.com/AASF-IIITM/EMOPlayer)
   Android App for Emotion based Music Player. Classify Human Emotions by face recognition and recommend Songs based on human emotion.<br/>
@@ -40,6 +45,11 @@ Contains details of all projects under AASF-IIITM, maintained by the vibrant dev
   8. [predicting-students-attentiveness](https://github.com/AASF-IIITM/predicting-students-attentiveness)
 
   9. [AndroidDB](https://github.com/AASF-IIITM/AndroidDB)
+  AndroidDB is an android app which stores ten latest entries of data. Data is stored in Firebase Database and old data is deleted using Firebase Functions.<br/>
+     ***TechStack:*** Android Studio(Java)
+      ***Maintainer:***<br/>
+            [Abhishek Garain](https://github.com/abhi211199)
+            Email: abhi211199@gmail.com
   10. [NSFW-image-detector](https://github.com/AASF-IIITM/NSFW-image-detector)
   11. [Intrusion-Detection-using-machine-learning-techniques](https://github.com/AASF-IIITM/Intrusion-Detection-using-machine-learning-techniques)
   12. [FakeBook](https://github.com/AASF-IIITM/FakeBook)
