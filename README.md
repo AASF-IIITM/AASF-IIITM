@@ -48,7 +48,7 @@ Contains details of all projects under AASF-IIITM, maintained by the vibrant dev
                       Email : ruturajkanake@gmail.com
   8. [AndroidDB](https://github.com/AASF-IIITM/AndroidDB)
   AndroidDB is an android app which stores ten latest entries of data. Data is stored in Firebase Database and old data is deleted using Firebase Functions.<br/>
-     ***TechStack:*** Android Studio(Java)
+     ***TechStack:*** Android Studio(Java)<br/>
      ***Maintainer:***<br/>
             [Abhishek Garain](https://github.com/abhi211199)
             Email: abhi211199@gmail.com
