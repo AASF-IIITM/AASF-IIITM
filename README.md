@@ -12,15 +12,15 @@ Contains details of all projects under AASF-IIITM, maintained by the vibrant dev
     Mutual fund calculator app is a tool to calculate all your financial targets. Developed in React Native using Expo, the app allows you to do four kinds of  calculations.<br/>
       ***TechStack:*** React, React Native, App Development<br/>
       ***Maintainer:*** <br/>
-                - [Juhi Tiwari](https://github.com/juhitiwari)
+                [Juhi Tiwari](https://github.com/juhitiwari)
                    Email : tjuhi.321@gmail.com
     
   3. [aasf-website-backend](https://github.com/AASF-IIITM/aasf-website-backend)
     Newly built backend for AASF Website(revamped). Yet to be released.<br/>
       ***TechStack:*** Nodejs, Express, MongoDB<br/>
-      ***Manintainers:*** <br/>- [Guna Shekar Proddaturi](https://github.com/GunaShekar02)
+      ***Manintainers:*** <br/>[Guna Shekar Proddaturi](https://github.com/GunaShekar02)
                              Email: gunashekherproddatoori@gmail.com<br/>
-                          - [Saniya Arora](https://github.com/sar99)
+                          [Saniya Arora](https://github.com/sar99)
                               Email: saniya.rishi@gmail.com
   4. [ExpenseCalc_React](https://github.com/AASF-IIITM/ExpenseCalc_React)
   5. [BlogApp](https://github.com/AASF-IIITM/BlogApp)
@@ -33,8 +33,7 @@ Contains details of all projects under AASF-IIITM, maintained by the vibrant dev
   7. [predicting-students-attentiveness](https://github.com/AASF-IIITM/predicting-students-attentiveness) 
     An app that predicts the student's attention levels in a live online classroom. It finds the gaze of students from Microsoft Face API and then calculates the overall variation. <br/>
      ***TechStack:*** Nodejs, Reactjs, Express, MongoDB, Microsoft Cognitive Services <br/>
-     ***Maintainer:*** <br/>
-                      - [Ruturaj Kanake](https://github.com/ruturajkanake) 
+     ***Maintainer:*** <br/>[Ruturaj Kanake](https://github.com/ruturajkanake) 
                       Email : ruturajkanake@gmail.com
 
       
