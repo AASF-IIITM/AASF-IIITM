@@ -28,7 +28,7 @@ Contains details of all projects under AASF-IIITM, maintained by the vibrant dev
   7. [predicting-students-attentiveness](https://github.com/AASF-IIITM/predicting-students-attentiveness) 
     An app that predicts the student's attention levels in a live online classroom. It finds the gaze of students from Microsoft Face API and then calculates the overall variation. <br/>
      ***TechStack:*** Nodejs, Reactjs, Express, MongoDB, Microsoft Cognitive Services <br/>
-     ***Maintainer*:** <br/>
+     ***Maintainer:*** <br/>
                       - [Ruturaj Kanake](https://github.com/ruturajkanake) 
                       Email : ruturajkanake@gmail.com
   8. [AndroidDB](https://github.com/AASF-IIITM/AndroidDB)
