@@ -29,7 +29,7 @@ Contains details of all projects under AASF-IIITM, maintained by the vibrant dev
             [Abhishek Garain](https://github.com/abhi211199)
             Email: abhi211199@gmail.com
   5. [BlogApp](https://github.com/AASF-IIITM/BlogApp)
-      Android app for social networking and blog sharing.
+      Android app for social networking and blog sharing.<br/>
       ***TechStack:*** Android Studio(Java)<br/>
       ***Manintainers:*** <br/>[Ankit Kumar](https://github.com/theanandankit)
                              Email: ankitanand2909@gmail.com<br/>
