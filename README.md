@@ -25,7 +25,12 @@ Contains details of all projects under AASF-IIITM, maintained by the vibrant dev
   4. [ExpenseCalc_React](https://github.com/AASF-IIITM/ExpenseCalc_React)
   5. [BlogApp](https://github.com/AASF-IIITM/BlogApp)
   6. [EMOPlayer](https://github.com/AASF-IIITM/EMOPlayer)
-  7. [predicting-students-attentiveness](https://github.com/AASF-IIITM/predicting-students-attentiveness)
+  7. [predicting-students-attentiveness](https://github.com/AASF-IIITM/predicting-students-attentiveness) 
+    An app that predicts the student's attention levels in a live online classroom. It finds the gaze of students from Microsoft Face API and then calculates the overall variation. <br/>
+     ***TechStack:*** Nodejs, Reactjs, Express, MongoDB, Microsoft Cognitive Services <br/>
+     ***Maintainer*:** <br/>
+                      - [Ruturaj Kanake](https://github.com/ruturajkanake) 
+                      Email : ruturajkanake@gmail.com
   8. [AndroidDB](https://github.com/AASF-IIITM/AndroidDB)
   9. [NSFW-image-detector](https://github.com/AASF-IIITM/NSFW-image-detector)
   10. [Intrusion-Detection-using-machine-learning-techniques](https://github.com/AASF-IIITM/Intrusion-Detection-using-machine-learning-techniques)
