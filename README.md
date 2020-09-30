@@ -25,6 +25,11 @@ Contains details of all projects under AASF-IIITM, maintained by the vibrant dev
   4. [ExpenseCalc_React](https://github.com/AASF-IIITM/ExpenseCalc_React)
   5. [BlogApp](https://github.com/AASF-IIITM/BlogApp)
   6. [EMOPlayer](https://github.com/AASF-IIITM/EMOPlayer)
+      Android App for Emotion based Music Player. Classify Human Emotions by face recognition and recommend Songs based on human emotion.<br/>
+      ***TechStack:*** Java, Firebase, ML, Android<br/>
+      ***Maintainer:*** <br/>
+            [Rahul Dev](https://github.com/devr22)
+            Email: devrahul2215@gmail.com
   7. [predicting-students-attentiveness](https://github.com/AASF-IIITM/predicting-students-attentiveness)
   8. [AndroidDB](https://github.com/AASF-IIITM/AndroidDB)
   9. [NSFW-image-detector](https://github.com/AASF-IIITM/NSFW-image-detector)
