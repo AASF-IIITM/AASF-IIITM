@@ -1,6 +1,7 @@
 # AASF-IIITM
 
 Contains details of all projects under AASF-IIITM, maintained by the vibrant developers from IIITM Gwalior.
+this is collection of links of all repository
 
 
 **Repositories under AASF-IIITM**
@@ -84,3 +85,4 @@ Contains details of all projects under AASF-IIITM, maintained by the vibrant dev
 
   17. [algorithms](https://github.com/AASF-IIITM/algorithms)
     This repository contains implementations of popular algorithms in different languages.
+    
