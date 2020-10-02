@@ -70,6 +70,13 @@ Contains details of all projects under AASF-IIITM, maintained by the vibrant dev
   [Juhi Tiwari](https://github.com/juhitiwari)
   Email: tjuhi.321@gmail.com
   
+  12. [Automata.sh](https://github.com/AASF-IIITM/Automata.sh) A list of scripts to automating Linux tasks. <br/>
+  ***TechStack*** Shell Scripting </br>
+  ***Maintainer***  </br>
+  [Rohit Kumar](https://github.com/aquatiko) </br>
+  Email: rohit970819@gmail.com
+  
+  
   13. [FakeBook](https://github.com/AASF-IIITM/FakeBook)
     A new generation app for social networking based on the MERN stack.
 
